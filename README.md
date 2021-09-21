@@ -7,8 +7,7 @@ Arquivos:
 
 Trabalho Prático Final - Especificação
 
-  O trabalho prático final da disciplina de Otimização de Sistemas consistirá em:
-  
+  O trabalho prático final da disciplina de Otimização de Sistemas consistirá em:  
     1) Identificar um problema do mundo real. Apresentar as variáveis envolvidas, o objetivo as 
     restrições (textualmente).
     2) Modelar utilizando programação matemática e ferramenta/linguagem de prototipação de 
