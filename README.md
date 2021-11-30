@@ -1,4 +1,4 @@
-# tp-os
+# TP - Otimização de sistemas
 Trabalho prático para a disciplina de Otimização de sistemas, curso de graduação em ciência da computação da PUC MG
 
 Arquivos:
